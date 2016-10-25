@@ -1,0 +1,3 @@
+recursive-include jelly *.py
+recursive-include jelly *.png
+recursive-include jelly *.ttf
